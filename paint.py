@@ -13,7 +13,7 @@ from turtle import *
 
 from freegames import vector
 
-print("hola, dab")
+print("Me caes mal varbi deja de hablarme ya")
 
 def line(start, end):
     """Draw line from start to end."""
